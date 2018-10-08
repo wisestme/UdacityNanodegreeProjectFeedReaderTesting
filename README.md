@@ -47,5 +47,5 @@ As a newbie in coding, I m super excited learning such skills and it is making c
 17. I tested all my tests by intentionally introducing errors into my codes to ensure all tests are actually working then i returned the tests to the error free states.
 
 ## Acknowledgement
-Feed Reader Walkthrough, Part 3 – Menu Test Suite – Matthew Cranford
-Feed Reader Walkthrough, Part 4 – Async Tests – Matthew Cranford
+### Feed Reader Walkthrough, Part 3 – Menu Test Suite – Matthew Cranford
+### Feed Reader Walkthrough, Part 4 – Async Tests – Matthew Cranford
